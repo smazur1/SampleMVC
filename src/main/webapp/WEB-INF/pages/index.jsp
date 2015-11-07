@@ -4,7 +4,7 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <html>
 <head>
-    <title>Sample App Sign-up Page</title>
+    <title>Sam's Sample App Sign-up Page</title>
 </head>
 <body>
 
